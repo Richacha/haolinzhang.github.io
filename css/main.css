@@ -43,7 +43,9 @@ ul.posts li {
 }
 
 .snapshot {
-    margin: 60px auto;
+    margin: 10px auto;
+    height: 100px;
+    width: 500px;
     border-style: dotted;
     background-color: yellow;
 }
