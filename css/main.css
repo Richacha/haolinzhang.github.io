@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+snapshot {
+    margin: 60px auto;
+    border-style: dotted;
+}
