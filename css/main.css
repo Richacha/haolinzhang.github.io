@@ -45,4 +45,5 @@ ul.posts li {
 .snapshot {
     margin: 60px auto;
     border-style: dotted;
+    background-color: yellow;
 }
