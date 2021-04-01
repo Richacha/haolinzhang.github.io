@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haolin Zhang, Launches Site"
+title: "My Website is Launched!!!"
 date: 2021-03-21
 ---
 
