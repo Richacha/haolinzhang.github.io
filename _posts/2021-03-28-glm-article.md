@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An article about GLM"
+title: "Let's Learn GLM"
 date: 2021-03-28
 ---
 
