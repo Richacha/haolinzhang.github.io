@@ -48,3 +48,8 @@ ul.posts li {
     width: 500px;
     border-style: dotted;
 }
+
+td {
+    width: 100px;
+    height: 30px;
+}
