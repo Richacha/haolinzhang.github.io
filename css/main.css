@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-snapshot {
+.snapshot {
     margin: 60px auto;
     border-style: dotted;
 }
